@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/fredoo404/fredoo404.github.io.git
+	branch = master
